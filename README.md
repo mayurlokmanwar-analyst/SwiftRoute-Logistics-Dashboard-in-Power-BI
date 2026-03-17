@@ -25,7 +25,7 @@ SwiftRoute is a comprehensive 4-page Power BI ecosystem designed to synchronize 
 
 ---
 
-## 🛠️ Technical Toolbelt
+## 💻 Technical Toolbelt
 
 <div align="center">
 
@@ -39,11 +39,17 @@ SwiftRoute is a comprehensive 4-page Power BI ecosystem designed to synchronize 
 
 ---
 
-## 📸 Dashboard Preview
-*High-level overview of the SwiftRoute Logistical Operations interface.*
+## 📸 Dashboard Interface Gallery
+*Explore the full 4-page logistics analytical suite.*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/SwiftRoute-Logistics-Dashboard-in-Power-BI/main/Visuals/preview.png" alt="Logistics Dashboard Preview" width="900" style="border-radius: 10px; border: 2px solid #1b263b;">
+
+| **Main Operations Overview** | **Driver Performance Analytics** |
+| :---: | :---: |
+| <img src="./Project%20Screenshots/SwiftRoute%20Logistics%20Dashboard.png" width="400"> | <img src="./Project%20Screenshots/Drivers%20Overview%20Dashboard.png" width="400"> |
+| **Hub & Regional Capacity** | **Vehicle & Fleet Health** |
+| <img src="./Project%20Screenshots/Hubs%20Overview%20Dashboard.png" width="400"> | <img src="./Project%20Screenshots/Vehicles%20Overview%20Dashboard.png" width="400"> |
+
 </div>
 
 ---
@@ -58,7 +64,7 @@ SwiftRoute is a comprehensive 4-page Power BI ecosystem designed to synchronize 
 ## 📁 Repository Structure
 ```text
 SwiftRoute-Logistics-Dashboard/
-├── 📂 Data/                 # Logistics, Driver, and Vehicle Datasets
-├── 📂 Visuals/              # High-res screenshots of the 4-page suite
-├── 📄 SwiftRoute.pbix       # Core Power BI Interactive File
-└── 📄 README.md             # Project Documentation
+├── 📂 Data/                    # Logistics, Driver, and Vehicle Datasets
+├── 📂 Project Screenshots/     # High-res screenshots of the 4-page suite
+├── 📄 SwiftRoute.pbix          # Core Power BI Interactive File
+└── 📄 README.md                # Project Documentation
