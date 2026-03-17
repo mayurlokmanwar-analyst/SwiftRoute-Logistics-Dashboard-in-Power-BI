@@ -1,50 +1,64 @@
-# 🚚 SwiftRoute Logistics: End-to-End Supply Chain Intelligence
+<div align="center">
 
-Welcome to the **SwiftRoute Logistics Dashboard** repository! This project features a comprehensive 4-page Power BI suite designed to transform raw logistics data into actionable insights across hub operations, driver performance, and vehicle health.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:01080e,40:0d1b2a,70:4682b4,100:01080e&height=220&section=header&text=SwiftRoute%20Logistics%20Intelligence&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%9A%9A%20Supply%20Chain%20KPIs%20%E2%80%A2%20Fleet%20Optimization%20%E2%80%A2%204-Page%20BI%20Suite&descSize=18&descAlignY=60&descColor=a9d6e5&animation=fadeIn" />
 
-[📊 View Project Repository](https://github.com/mayurlokmanwar-analyst/SwiftRoute-Logistics-Dashboard-in-Power-BI)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/mayurlokmanwar-analyst/SwiftRoute-Logistics-Dashboard-in-Power-BI?color=4682b4&style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/mayurlokmanwar-analyst/SwiftRoute-Logistics-Dashboard-in-Power-BI?color=a9d6e5&style=for-the-badge)
+<br/>
 
----
+[📊 View the Interactive Power BI Suite](https://github.com/mayurlokmanwar-analyst/SwiftRoute-Logistics-Dashboard-in-Power-BI)
 
-## 🚀 Overview
-This project provides full-spectrum visibility into supply chain health. By integrating disparate data points into a cohesive 4-page interactive suite, it enables logistics managers to optimize fleet uptime, track driver KPIs, and visualize regional performance.
-
-### Key Dashboard Pages:
-- **Logistical Operations:** High-level KPIs including **Total Orders**, **On-Time Delivery (OTD)**, and **CSAT %**.
-- **Drivers Overview:** Analysis of driver efficiency, experience-to-rating correlation, and bottleneck identification.
-- **Hubs Overview:** Performance heatmaps and rankings identifying processing capacity by region.
-- **Vehicles Overview:** Fleet health tracking and correlation analysis between vehicle age and breakdown frequency.
+</div>
 
 ---
 
-## 🛠️ Built With
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Advanced_Analytics-blue?style=for-the-badge)
-![UI/UX](https://img.shields.io/badge/UI/UX-Custom_Iconography-orange?style=for-the-badge)
+## 🚀 Strategic Overview
+SwiftRoute is a comprehensive 4-page Power BI ecosystem designed to synchronize fragmented supply chain data. By integrating Hub operations, Driver performance, and Vehicle health, this suite provides logistics managers with 360-degree visibility into fleet uptime and regional processing capacity.
 
-- **Data Modeling:** Optimized **Star Schema** architecture connecting Hub, Driver, and Vehicle dimensions.
-- **Advanced DAX:** Implemented dynamic **Star Ratings**, **YoY Performance growth**, and complex conditional formatting.
-- **Visual Design:** Integrated **Flaticon iconography** and gradient color palettes for a professional, intuitive user experience.
+### 🏗️ 4-Page Dashboard Architecture
+| **Module** | **Primary KPIs & Focus** |
+| :--- | :--- |
+| **Logistics Ops** | Total Orders, On-Time Delivery (OTD), and CSAT % tracking. |
+| **Driver Analytics** | Efficiency mapping, experience-to-rating correlation, and bottlenecks. |
+| **Hub Performance** | Regional heatmaps and processing capacity rankings. |
+| **Fleet Health** | Breakdown frequency vs. Vehicle age for proactive maintenance. |
 
 ---
 
-## 📸 Preview
-*(Add your logistics dashboard screenshots to the repository to display them here)*
-<img src="https://github.com/mayurlokmanwar-analyst/SwiftRoute-Logistics-Dashboard-in-Power-BI/raw/main/preview.png" alt="Logistics Dashboard Preview" width="800">
+## 🛠️ Technical Toolbelt
+
+<div align="center">
+
+| **Domain** | **Implementation Details** |
+| :--- | :--- |
+| **Data Architecture** | ![Star Schema](https://img.shields.io/badge/Star_Schema-Modeling-4682b4?style=flat-square) Optimized Dimension-Fact relationships. |
+| **Advanced DAX** | ![DAX](https://img.shields.io/badge/DAX-Advanced-1b263b?style=flat-square) Dynamic Star Ratings, YoY Growth, & Custom Formatting. |
+| **UI/UX Design** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) Custom Iconography & 4-Page Navigation. |
+
+</div>
+
+---
+
+## 📸 Dashboard Preview
+*High-level overview of the SwiftRoute Logistical Operations interface.*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/SwiftRoute-Logistics-Dashboard-in-Power-BI/main/Visuals/preview.png" alt="Logistics Dashboard Preview" width="900" style="border-radius: 10px; border: 2px solid #1b263b;">
+</div>
 
 ---
 
 ## 💡 Business Impact
-* **Operational Sync:** Aligned Hub performance rankings with regional heatmaps to pinpoint processing delays instantly.
-* **Performance Tracking:** Automated a **5-star rating system** for driver evaluation, simplifying the appraisal process.
-* **Proactive Maintenance:** Identified breakdown trends by vehicle age, allowing for a **15% optimization** in fleet downtime scheduling.
+* **Operational Synchronization:** Aligned Hub performance rankings with regional heatmaps to pinpoint processing delays instantly.
+* **Performance Transparency:** Automated a **5-star rating system** for driver evaluation, significantly reducing the manual appraisal cycle.
+* **Proactive Fleet Maintenance:** Identified breakdown trends by vehicle age, enabling a **15% optimization** in scheduled downtime.
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Structure
 ```text
 SwiftRoute-Logistics-Dashboard/
-├── Data/               # Raw logistics, driver, and vehicle datasets
-├── Visuals/            # High-res screenshots of the 4-page suite
-├── SwiftRoute.pbix     # The Core Power BI Interactive File
-└── README.md           # Project Documentation
+├── 📂 Data/                 # Logistics, Driver, and Vehicle Datasets
+├── 📂 Visuals/              # High-res screenshots of the 4-page suite
+├── 📄 SwiftRoute.pbix       # Core Power BI Interactive File
+└── 📄 README.md             # Project Documentation
