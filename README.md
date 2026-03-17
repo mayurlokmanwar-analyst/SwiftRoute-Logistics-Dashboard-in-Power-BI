@@ -43,7 +43,7 @@ SwiftRoute is a comprehensive 4-page Power BI ecosystem designed to synchronize 
 *High-level overview of the SwiftRoute Logistical Operations interface.*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/SwiftRoute-Logistics-Dashboard-in-Power-BI/master/Visuals/preview.png" width="900"> style="border-radius: 10px; border: 2px solid #1b263b;">
+  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/SwiftRoute-Logistics-Dashboard-in-Power-BI/main/Visuals/preview.png" alt="Logistics Dashboard Preview" width="900" style="border-radius: 10px; border: 2px solid #1b263b;">
 </div>
 
 ---
